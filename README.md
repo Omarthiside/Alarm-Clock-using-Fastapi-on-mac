@@ -37,4 +37,6 @@ Closing and reopening the WebSocket.
 
 Checking if the alarm still fires.
 
+Omar Abdulla
+🎓 3rd Year – University School of Automation & Robotics
 
